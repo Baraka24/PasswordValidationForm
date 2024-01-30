@@ -149,4 +149,6 @@ myInput.onkeyup = function() {
 }
 </script>
 ```
+Try it here:
+[![Try it](https://cbs.umn.edu/sites/cbs.umn.edu/files/migrated-files/images/TryItButton.png)](https://baraka24.github.io/PasswordValidationForm/)
 
